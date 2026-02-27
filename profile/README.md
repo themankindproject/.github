@@ -1,16 +1,16 @@
 # @themankindproject
 
-> ⚙️ Systems-level implementations and experiments.
+> Systems-level implementations and experiments.
 
 We design and benchmark low-level components with performance as a primary constraint. The work focuses on translating systems research into practical, testable implementations.
 
 
 
-## 🧠 Mission
+## Mission
 
 Modern software often abstracts away hardware characteristics. themankindproject examines performance through the lens of cache behavior, instruction-level parallelism, and memory subsystems.
 
-## 🧩 Scope
+## Scope
 
 - Re-implementations of systems research papers  
 - Microarchitectural measurement and analysis  
@@ -18,7 +18,7 @@ Modern software often abstracts away hardware characteristics. themankindproject
 - Memory layout and cache-aware data structures  
 - Low-level foundational crates  
 
-## 📏 Principles
+## Principles
 
 - Measure before optimizing  
 - Benchmark all meaningful changes  
@@ -27,7 +27,7 @@ Modern software often abstracts away hardware characteristics. themankindproject
 
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome from individuals interested in performance engineering, systems design, and reproducible experimentation.
 
